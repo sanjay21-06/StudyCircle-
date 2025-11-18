@@ -2,4 +2,4 @@
 A Full Stack development application
 
 
-https://github.com/sanjay21-06/StudyCircle-/blob/main/Django%20Admin.jpg
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/659f8a53-38ed-4be7-b2b4-35f2d4df167d" />
